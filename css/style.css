@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+   font-display: swap;
+   font-weight: 900;
+   font-style: normal;
+}
+
+body{
+   font-family: "Lato", sans-siref;
+   font-size: 14px;
+   font-weight: 400;
+   font-style: normal;
+   line-height: 1.5;
+}
+h1{
+   font-family: "Montserrat";
+   font-weight: 700;
+   font-style: normal;
+   font-size: 40px;
+   color: blue;
+}
+
+.hero-title {
+   color: chocolate;
+   font-family: "Larsseit";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 30px;
+}
+
+.nav > li{
+   color: blueviolet;
+   font-family: "Montserrat";
+      font-weight: 700;
+      font-style: normal;
+      font-size: 25px;
+}
+.navi,
+.nav > ol{
+   color: red;
+   font-family: "Montserrat";
+      font-weight: 700;
+      font-style: normal;
+      font-size: 16px;
+}
+.oae{
+   color: coral;
+   font-family: "Larsseit";
+      font-weight: 700;
+      font-style: normal;
+      font-size: 40px;
+
+}
+.oae > h2{
+   color: yellow;
+   font-family: "Larsseit";
+      font-weight: 400;      
+      font-style: normal;
+      font-size: 35px;
+}
+.oae > p{
+   color: rgb(0, 255, 64);
+   font-family: "Larsseit";
+      font-weight: 400;      
+      font-style: normal;
+      font-size: 16px;
+}
+/* Курорти */
+.resorts{
+   color: darkred;
+   font-family: "Lato";
+      font-weight: 900;
+      font-style: normal;
+      font-size: 40px;
+}
+.resorts > h2{
+   color: rgb(43, 145, 213);
+   font-family: "Lato";
+      font-weight: 700;
+      font-style: normal;
+      font-size: 30px;
+}
+.shardza{
+   color: darkblue;
+   font-family: "Lato";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 16px;
+}
+.shardza > p{
+   color: darkgreen;
+   font-family: "Larsseit";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 30px;
+}
+.dubai,
+.fudzherai{
+   color: darkkhaki;
+
+
+}
+.dubai >p,
+.fudzherai > p{
+   color: rgb(205, 71, 10);
+   font-family: "Montserrat";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 16px;
+}
+/* Найпопулярніші пам'ятки ОА */
+.attractions{
+   color: coral;
+   font-family: "Montserrat";
+      font-weight: 700;
+      font-style: normal;
+      font-size: 25px;
+}
+.halifa > h3{
+   color: aqua;
+   font-family: "Lato";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 20px;
+}
+.halifa > p{
+   color: burlywood;
+   font-family: "Larsseit";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 16px;
+}
+.fountain > p{
+   color: chartreuse;
+}
+.fountain > ul{
+   color: red;
+   font-family: "Montserrat";
+      font-weight: 700;
+      font-style: normal;
+      font-size: 16px;
+}
+.ferrari > p{
+   color: darkslateblue;
+   font-family: "Lato";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 16px;
+}
+.mosque > p{
+   color: lawngreen;
+   font-family: "Larsseit";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 16px;
+}
+.tickets{
+   color: indigo;
+}
+.tickets > p{
+   color: plum;
+   font-family: "Montserrat";
+      font-weight: 400;
+      font-style: normal;
+      font-size: 30px;
+}
